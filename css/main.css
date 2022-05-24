@@ -1,8 +1,6 @@
 body {
-    background-color: 25, 25, 25;
+    background-color: black !important;
 }
-
-img-thumbnail {
-    width: 200;
-    height: 200;
+.content {
+    background-color: black;
 }
